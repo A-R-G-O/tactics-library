@@ -10,11 +10,11 @@ A platoon's strength lies with the readiness of it's members. As a result, this 
 
 | Document | Description |
 |----------|-------------|
-| [Communication](./Topic%201.md) | A document that standardizes radio communications. |
-| [Reports](./Topic%202.md) | A document describing useful reports. |
-| [Individual Movement Techniques](./Topic%203.md) | A document describing useful movement techniques. |
-| [TCCC](./Topic%204.md) | A document describing medical aid in Bellum. |
-| [Individual Responsibilities](./Topic%204.md) | A document describing responsibilities of the individual in the context of a buddy team, fireteam, and squad. |
+| [1.1 Communication](./Topic%201.md) | A document that standardizes radio communications. |
+| [1.2 Reports](./Topic%202.md) | A document describing useful reports. |
+| [1.3 Individual Movement Techniques](./Topic%203.md) | A document describing useful movement techniques. |
+| [1.4 TCCC](./Topic%204.md) | A document describing medical aid in Bellum. |
+| [1.5 Individual Responsibilities](./Topic%204.md) | A document describing responsibilities of the individual in the context of a buddy team, fireteam, and squad. |
 
 ---
 
