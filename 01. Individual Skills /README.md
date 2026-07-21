@@ -1,4 +1,4 @@
-# <01. Individual Skills>
+# 01. Individual Skills
 
 ## Description
 
